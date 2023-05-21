@@ -1,4 +1,5 @@
 import "./bootstrap";
+import "../css/fontawesome.css";
 import "../css/app.css";
 import "./template";
 
